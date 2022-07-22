@@ -1,0 +1,13 @@
+.carousel-item>img{
+  height: 100vh;
+  /* vh, vw : viewport height, viewport width : 크기에 맞게 자동 조절*/
+}
+
+header{
+  z-index: 1;
+  font-weight: bold;
+}
+
+/* .bg-primary{
+  background-color: rgb(161, 217, 243);
+} */
